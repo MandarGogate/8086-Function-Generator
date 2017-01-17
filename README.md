@@ -27,4 +27,7 @@ For eg. To Generate a Square Waveform of Frequency 83.25 KHz the user has to pre
 For detailed report, visit:
 
 https://www.mandargogate.com/function-generator-using-x86-microprocessor/
+
+
+
 https://www.mandargogate.com/blog/
