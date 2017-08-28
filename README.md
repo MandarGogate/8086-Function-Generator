@@ -1,8 +1,8 @@
-#Function Generator using X86 Microprocessor
+# Function Generator using X86 Microprocessor
 ## Variable-Frequency-Waveform-Generator
 EEE/INSTR F241 – Microprocessor Programming &amp; Interfacing BITS- Pilani Goa Campus
 
-##DESIGN SPECIFICATIONS:-
+## DESIGN SPECIFICATIONS:-
 1. This system is used to generate a Sine/Triangular/Square waveform
 2. Frequenciesrangingfrom10Hzto99KHz.
 3. Voltage is between 0-10V.
@@ -10,7 +10,7 @@ EEE/INSTR F241 – Microprocessor Programming &amp; Interfacing BITS- Pilani Goa
 For eg. To Generate a Square Waveform of Frequency 83.25 KHz the user has to press Square, Followed by 10K Key- 8 Times, 1K Key – 3 Times, 100 Key –2 Times 10 Key- 5 Times.
 5. When generate is pressed then the selected waveform of that frequency will be generated. If the user wants to change the waveform, he just has to press the desired Button
 
-##COMPONENTS USED:
+## COMPONENTS USED:
 1. 8086(Microprocessor)
 2. 8284(ClockGenerator)
 3. 74LS373 X 3 (Octal latch)
